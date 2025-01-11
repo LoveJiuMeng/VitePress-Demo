@@ -1,0 +1,11 @@
+.copyright p {
+    color: lightcoral;
+}
+
+:root {
+    /* 图标背景 */
+    --vp-home-hero-image-background-image: linear-gradient(135deg,
+            #bbe2fe 10%,
+            #5672CD 100%);
+    --vp-home-hero-image-filter: blur(150px);
+}
